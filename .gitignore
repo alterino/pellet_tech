@@ -2,3 +2,5 @@
 *.png
 .DS_STORE
 data
+*.csv
+etl-model-backend

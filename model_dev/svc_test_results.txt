@@ -1,0 +1,8 @@
+[CV 1/1] END svc__C=10, svc__gamma=0.1, svc__kernel=linear;, score=0.925 total time= 7.3min
+[CV 1/1] END svc__C=0.1, svc__gamma=0.01, svc__kernel=rbf;, score=0.930 total time= 7.0min
+[CV 1/1] END svc__C=1, svc__gamma=0.1, svc__kernel=linear;, score=0.925 total time= 5.6min
+[CV 1/1] END svc__C=10, svc__gamma=0.01, svc__kernel=linear;, score=0.925 total time= 7.4min
+[CV 1/1] END svc__C=1, svc__gamma=0.01, svc__kernel=rbf;, score=0.932 total time= 8.1min
+[CV 1/1] END svc__C=0.1, svc__gamma=0.1, svc__kernel=rbf;, score=0.934 total time= 8.4min
+[CV 1/1] END svc__C=0.1, svc__gamma=0.1, svc__kernel=linear;, score=0.925 total time= 4.7min
+[CV 1/1] END svc__C=10, svc__gamma=0.1, svc__kernel=rbf;, score=0.941 total time= 4.0min
